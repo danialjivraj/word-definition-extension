@@ -15,7 +15,7 @@ The extension includes four tabs:
 - **Definition**
 
   - Search for a word
-  - Selecting a word in your browser and opening the extension will display its definition
+  - Select a word in your browser, and opening the extension will display its definition
   - Listen to its pronunciation by pressing the speech synthesis volume icon
   - Mark words as favorites
 
