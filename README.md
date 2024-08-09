@@ -38,12 +38,9 @@ The extension includes four tabs:
 _searching for normal words with their respective meanings:_
 ![searchingWords](https://raw.githubusercontent.com/danialjivraj/word-definition-extension/main/githubPreviews/searchingWords.png)
 _same word but with case sensitivity on, showcasing different meanings:_
-
 ![searchingWords](https://raw.githubusercontent.com/danialjivraj/word-definition-extension/main/githubPreviews/caseSensitivity.png)
 _non-existent word in the english dictionary, without and with translation on:_
-
 ![searchingWords](https://raw.githubusercontent.com/danialjivraj/word-definition-extension/main/githubPreviews/translation.png)
-
 _other different tabs:_
 ![searchingWords](https://raw.githubusercontent.com/danialjivraj/word-definition-extension/main/githubPreviews/differentTabs.png)
 
