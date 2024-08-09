@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Definition Generator</title>
+    <link
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" type="text/css" href="./css/popup.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <h3>Definition Generator</h3>
+    <div id="tabs" class="mb-3">
+      <button class="btn btn-light tabButton active" id="definitionTabButton">
+        Definition
+      </button>
+      <button class="btn btn-light tabButton" id="favouriteTabButton">
+        Favourite
+      </button>
+      <button class="btn btn-light tabButton" id="wordOfTheDayTabButton">
+        Word of the Day
+      </button>
+      <button class="btn btn-light tabButton" id="settingsTabButton">
+        <img
+          src="../assets/settings-icon.png"
+          id="settingsIcon"
+          alt="Settings"
+        />
+      </button>
+    </div>
+
+    <div id="definitionTab" class="tab active">
+      <div class="input-group mb-3">
+        <div class="input-group-prepend">
+          <span class="input-group-text" id="pronounceButton">
+            <img
+              src="../assets/volume.png"
+              class="pronounce-icon"
+              alt="Pronounce"
+            />
+          </span>
+        </div>
+        <input
+          type="text"
+          class="form-control"
+          id="wordInput"
+          placeholder="Enter a word"
+        />
+        <span class="clear-icon">
+          <i id="clearHistoryButton" class="fas fa-times"></i>
+        </span>
+        <div class="input-group-append">
+          <span class="input-group-text" id="generateButton">
+            <i class="fas fa-search"></i>
+          </span>
+          <span class="input-group-text">
+            <span class="star" id="favouriteStar">&#9734;</span>
+          </span>
+        </div>
+      </div>
+
+      <div id="definitionResult" class="mt-3"></div>
+    </div>
+
+    <div id="wordOfTheDayTab" class="tab">
+      <div id="wordOfTheDay"></div>
+      <div id="wordOfTheDayDefinition"></div>
+    </div>
+
+    <div id="favouriteTab" class="tab">
+      <!-- Favourite tab content goes here -->
+    </div>
+
+    <div id="settingsTab" class="tab">
+      <h4>Settings</h4>
+      <div class="form-check">
+        <input
+          type="checkbox"
+          class="form-check-input"
+          id="caseSensitiveCheckbox"
+        />
+        <label class="form-check-label" for="caseSensitiveCheckbox">
+          Case Sensitive Search
+        </label>
+      </div>
+      <div class="form-check">
+        <input
+          type="checkbox"
+          class="form-check-input"
+          id="translationCheckbox"
+        />
+        <label class="form-check-label" for="translationCheckbox">
+          Translation
+        </label>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="./popup.js"></script>
+  </body>
+</html>

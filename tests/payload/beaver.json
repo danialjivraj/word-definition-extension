@@ -1,0 +1,279 @@
+[
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "en-noun",
+        "args": {
+          "1": "~",
+          "2": "s",
+          "3": "beaver",
+          "pl3qual": "senses 1 and 4"
+        },
+        "expansion": "beaver (countable and uncountable, plural beavers or (senses 1 and 4) beaver)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "beavers",
+        "tags": ["plural"]
+      },
+      {
+        "form": "beaver",
+        "tags": ["error-unknown-tag", "plural"]
+      }
+    ],
+    "etymology_number": 1,
+    "etymology_text": "From Middle English bever, from Old English befer, from Proto-West Germanic *bebru, from Proto-Germanic *bebruz, from Proto-Indo-European *bʰébʰrus (“beaver”).\nCognate with West Frisian bever, Dutch bever, French bièvre, German Biber, dialectal Swedish bjur. Non-Germanic cognates include Welsh befer, Latin fiber, Lithuanian bẽbras, Russian бобр (bobr), Avestan 𐬠𐬀𐬎𐬎𐬭𐬀 (bauura), and Sanskrit बभ्रु (bábhru, “mongoose; ichneumon”).",
+    "word": "beaver",
+    "lang": "English",
+    "lang_code": "en",
+    "wikipedia": ["beaver"],
+    "sounds": [
+      {
+        "ipa": "/ˈbiːvə/",
+        "tags": ["Received-Pronunciation"]
+      },
+      {
+        "ipa": "/ˈbivɚ/",
+        "tags": ["General-American"]
+      },
+      {
+        "rhymes": "-iːvə(ɹ)"
+      },
+      {
+        "homophone": "Belvoir"
+      },
+      {
+        "homophone": "bever"
+      },
+      {
+        "homophone": "bevor"
+      },
+      {
+        "audio": "en-us-beaver.ogg",
+        "text": "Audio (US)",
+        "tags": ["US"],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/En-us-beaver.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/En-us-beaver.ogg/En-us-beaver.ogg.mp3"
+      },
+      {
+        "enpr": "bēʹvər"
+      }
+    ],
+    "translations": [
+      {
+        "lang": "Finnish",
+        "code": "fi",
+        "sense": "fur",
+        "word": "majavannahka",
+        "_dis1": "0 50 46 4 0 0 0 0"
+      },
+      {
+        "lang": "Polish",
+        "code": "pl",
+        "sense": "fur",
+        "tags": ["masculine", "plural"],
+        "word": "bobry",
+        "_dis1": "0 50 46 4 0 0 0 0"
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "en-noun",
+        "args": {},
+        "expansion": "beaver (plural beavers)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "beavers",
+        "tags": ["plural"]
+      }
+    ],
+    "etymology_number": 2,
+    "etymology_text": "See bevor.",
+    "etymology_templates": [
+      {
+        "name": "m",
+        "args": {
+          "1": "en",
+          "2": "bevor"
+        },
+        "expansion": "bevor"
+      }
+    ],
+    "word": "beaver",
+    "lang": "English",
+    "lang_code": "en",
+    "wikipedia": ["beaver"],
+    "sounds": [
+      {
+        "ipa": "/ˈbiːvə/",
+        "tags": ["Received-Pronunciation"]
+      },
+      {
+        "ipa": "/ˈbivɚ/",
+        "tags": ["General-American"]
+      },
+      {
+        "rhymes": "-iːvə(ɹ)"
+      },
+      {
+        "homophone": "Belvoir"
+      },
+      {
+        "homophone": "bever"
+      },
+      {
+        "homophone": "bevor"
+      },
+      {
+        "audio": "en-us-beaver.ogg",
+        "text": "Audio (US)",
+        "tags": ["US"],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/En-us-beaver.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/En-us-beaver.ogg/En-us-beaver.ogg.mp3"
+      },
+      {
+        "enpr": "bēʹvər"
+      }
+    ],
+    "senses": [
+      {
+        "examples": [
+          {
+            "text": "With trembling hands her beaver he untied, / Which done, he saw, and seeing knew her face.",
+            "ref": "1600, Edward Fairfax, The Jerusalem Delivered of Tasso, XII, lxvii"
+          },
+          {
+            "text": "Without alighting from his horse, the conqueror called for a bowl of wine, and opening the beaver, or lower part of his helmet, announced that he quaffed it, “To all true English hearts, and to the confusion of foreign tyrants.”",
+            "ref": "1819, Walter Scott, Ivanhoe",
+            "type": "quotation"
+          },
+          {
+            "text": "1951 Adaptation of the 1885 Ormsby translation of Cervantes’ Don Quixote, correcting Ormsby as to the portion of the helmet referred to by Cervantes (see note 11 to chapter II) at the suggestion of Juan Hartzenbusch, a 19th-century director of the National Library of Spain.\nThey laid a table for him at the door of the inn for the sake of the air, and the host brought him a portion of ill-soaked and worse cooked stockfish, and a piece of bread as black and mouldy as his own armour; but a laughble sight it was to see him eating, for having his helmet on and the beaver up, he could not with his own hands put anything into his mouth unless some one else placed it there, and this service one of the ladies rendered him."
+          },
+          {
+            "text": "As each one brings a little of himself to what he sees you brought the trappings of your historic preoccupations, so that Monsieur flattered you by presenting himself with beaver up like Hamlet's father's ghost!",
+            "ref": "1974, Lawrence Durrell, Monsieur, or the Prince of Darkness, Faber & Faber, published 1992, page 128",
+            "type": "quotation"
+          }
+        ],
+        "senseid": ["en:part of a helmet"],
+        "links": [["bevor", "bevor#English"]],
+        "glosses": ["Alternative spelling of bevor (“part of a helmet”)."],
+        "tags": ["alt-of", "alternative"],
+        "alt_of": [
+          {
+            "word": "bevor",
+            "extra": "part of a helmet"
+          }
+        ],
+        "id": "en-beaver-en-noun-en:part_of_a_helmet",
+        "categories": []
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "en-noun",
+        "args": {
+          "1": "?"
+        },
+        "expansion": "beaver"
+      }
+    ],
+    "etymology_number": 3,
+    "word": "beaver",
+    "lang": "English",
+    "lang_code": "en",
+    "wikipedia": ["beaver"],
+    "sounds": [
+      {
+        "ipa": "/ˈbiːvə/",
+        "tags": ["Received-Pronunciation"]
+      },
+      {
+        "ipa": "/ˈbivɚ/",
+        "tags": ["General-American"]
+      },
+      {
+        "rhymes": "-iːvə(ɹ)"
+      },
+      {
+        "homophone": "Belvoir"
+      },
+      {
+        "homophone": "bever"
+      },
+      {
+        "homophone": "bevor"
+      },
+      {
+        "audio": "en-us-beaver.ogg",
+        "text": "Audio (US)",
+        "tags": ["US"],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/En-us-beaver.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/37/En-us-beaver.ogg/En-us-beaver.ogg.mp3"
+      },
+      {
+        "enpr": "bēʹvər"
+      }
+    ],
+    "senses": [
+      {
+        "examples": [
+          {
+            "text": "Butter – Beaver.]",
+            "ref": "[1754, The Scoundrel’s Dictionary, London, page 15",
+            "type": "quotation"
+          }
+        ],
+        "links": [["Butter", "butter"]],
+        "glosses": ["Butter."],
+        "tags": ["UK", "obsolete"],
+        "id": "en-beaver-en-noun-4KJjqCYK",
+        "categories": [
+          {
+            "name": "English entries with language name categories using raw markup",
+            "kind": "other",
+            "parents": [
+              "Entries with language name categories using raw markup",
+              "Entry maintenance"
+            ],
+            "source": "w+disamb",
+            "_dis": "9 4 2 8 4 1 6 3 5 12 2 12 5 3 0 13 5 7 0"
+          },
+          {
+            "name": "English entries with topic categories using raw markup",
+            "kind": "other",
+            "parents": [
+              "Entries with topic categories using raw markup",
+              "Entry maintenance"
+            ],
+            "source": "w+disamb",
+            "_dis": "9 7 2 8 4 2 6 3 8 10 2 11 5 3 0 7 5 7 1"
+          },
+          {
+            "name": "British English",
+            "kind": "other",
+            "parents": [],
+            "source": "w+disamb"
+          },
+          {
+            "name": "English Thieves' Cant",
+            "kind": "other",
+            "parents": [],
+            "source": "w+disamb"
+          }
+        ]
+      }
+    ]
+  }
+]

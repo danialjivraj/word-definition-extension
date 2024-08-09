@@ -1,0 +1,273 @@
+[
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "en-noun",
+        "args": {},
+        "expansion": "BEM (plural BEMs)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "BEMs",
+        "tags": ["plural"]
+      }
+    ],
+    "etymology_number": 1,
+    "word": "BEM",
+    "lang": "English",
+    "lang_code": "en",
+    "wikipedia": ["BEM"],
+    "senses": [
+      {
+        "links": [["British Empire Medal", "w:British Empire Medal"]],
+        "glosses": ["Initialism of British Empire Medal."],
+        "tags": ["abbreviation", "alt-of", "initialism"],
+        "alt_of": [
+          {
+            "word": "British Empire Medal"
+          }
+        ],
+        "id": "en-BEM-en-noun-vQHIlIKn",
+        "categories": [
+          {
+            "name": "English links with redundant alt parameters",
+            "kind": "other",
+            "parents": [
+              "Links with redundant alt parameters",
+              "Entry maintenance"
+            ],
+            "source": "w"
+          },
+          {
+            "name": "English links with redundant wikilinks",
+            "kind": "other",
+            "parents": ["Links with redundant wikilinks", "Entry maintenance"],
+            "source": "w"
+          },
+          {
+            "name": "English entries with incorrect language header",
+            "kind": "other",
+            "parents": [
+              "Entries with incorrect language header",
+              "Entry maintenance"
+            ],
+            "source": "w+disamb",
+            "_dis": "60 14 26"
+          },
+          {
+            "name": "English entries with topic categories using raw markup",
+            "kind": "other",
+            "parents": [
+              "Entries with topic categories using raw markup",
+              "Entry maintenance"
+            ],
+            "source": "w+disamb",
+            "_dis": "53 24 23"
+          },
+          {
+            "name": "English links with redundant wikilinks",
+            "kind": "other",
+            "parents": ["Links with redundant wikilinks", "Entry maintenance"],
+            "source": "w+disamb",
+            "_dis": "71 10 19"
+          }
+        ]
+      },
+      {
+        "examples": [
+          {
+            "text": "Where OOCSS and SMACSS can be seen as a more of frameworks for thinking about structured CSS combined with some handy rules of thumb, BEM is a much more rigid system for how to author and name your styles. BEM is originally an application development methodology from the search engine company Yandex.",
+            "ref": "2016, Andy Budd, Emil Björklund, CSS Mastery, Apress, page 387",
+            "type": "quotation"
+          }
+        ],
+        "links": [
+          ["web design", "web design"],
+          ["block", "block#English"],
+          ["element", "element#English"],
+          ["modifier", "modifier#English"],
+          ["CSS", "CSS"]
+        ],
+        "raw_glosses": [
+          "(web design) Initialism of block, element, modifier, a convention for authoring CSS."
+        ],
+        "topics": [
+          "computing",
+          "engineering",
+          "mathematics",
+          "natural-sciences",
+          "physical-sciences",
+          "sciences",
+          "web-design"
+        ],
+        "glosses": [
+          "Initialism of block, element, modifier, a convention for authoring CSS."
+        ],
+        "tags": ["abbreviation", "alt-of", "initialism"],
+        "alt_of": [
+          {
+            "word": "block",
+            "extra": "a convention for authoring CSS"
+          },
+          {
+            "word": "element",
+            "extra": "a convention for authoring CSS"
+          },
+          {
+            "word": "modifier",
+            "extra": "a convention for authoring CSS"
+          }
+        ],
+        "id": "en-BEM-en-noun-~uzPY7nG",
+        "categories": [
+          {
+            "name": "Web design",
+            "kind": "topical",
+            "parents": [
+              "Design",
+              "World Wide Web",
+              "Art",
+              "Internet",
+              "Culture",
+              "Computing",
+              "Networking",
+              "Society",
+              "Technology",
+              "All topics",
+              "Fundamental"
+            ],
+            "source": "w",
+            "orig": "en:Web design",
+            "langcode": "en"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "noun",
+    "head_templates": [
+      {
+        "name": "en-noun",
+        "args": {},
+        "expansion": "BEM (plural BEMs)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "BEMs",
+        "tags": ["plural"]
+      }
+    ],
+    "etymology_number": 2,
+    "wikipedia": ["BEM", "Bug-eyed monster"],
+    "etymology_text": "Acronym of bug-eyed monster.",
+    "etymology_templates": [
+      {
+        "name": "acronym",
+        "args": {
+          "1": "en",
+          "2": "bug-eyed monster"
+        },
+        "expansion": "Acronym of bug-eyed monster"
+      }
+    ],
+    "word": "BEM",
+    "lang": "English",
+    "lang_code": "en",
+    "senses": [
+      {
+        "examples": [
+          {
+            "text": "Incidentally, Mr. Bergey, the BEM's on your latest smear have extremely jovial expressions on their pans to be as tough a bunch of eggs as Friend made them out.",
+            "ref": "1940 November, Parmer Farrell, “The Reader Speaks”, in Thrilling Wonder Stories, volume 18, number 2, page 120",
+            "type": "quotation"
+          },
+          {
+            "text": "This is my first time in active BEM service. They've never let me near the Bugs before.",
+            "ref": "1997, Lawrence Miles, Alien Bodies, page 89",
+            "type": "quotation"
+          }
+        ],
+        "links": [
+          ["science fiction", "science fiction"],
+          ["fandom", "fandom"],
+          ["slang", "slang"],
+          ["derogatory", "derogatory"],
+          ["stock character", "stock character"],
+          ["grotesque", "grotesque"],
+          ["creature", "creature"],
+          ["extraterrestrial", "extraterrestrial"],
+          ["menaces", "menaces"],
+          ["protagonist", "protagonist"]
+        ],
+        "raw_glosses": [
+          "(science fiction, fandom slang, often derogatory) A stock character in science fiction; a grotesque creature, often an extraterrestrial, that menaces the protagonists."
+        ],
+        "topics": [
+          "lifestyle",
+          "literature",
+          "media",
+          "publishing",
+          "science-fiction"
+        ],
+        "glosses": [
+          "A stock character in science fiction; a grotesque creature, often an extraterrestrial, that menaces the protagonists."
+        ],
+        "tags": ["derogatory", "often", "slang"],
+        "id": "en-BEM-en-noun-XG038Zq9",
+        "categories": [
+          {
+            "name": "Science fiction",
+            "kind": "topical",
+            "parents": [
+              "Fiction",
+              "Speculative fiction",
+              "Artistic works",
+              "Genres",
+              "Art",
+              "Entertainment",
+              "Culture",
+              "Society",
+              "All topics",
+              "Fundamental"
+            ],
+            "source": "w",
+            "orig": "en:Science fiction",
+            "langcode": "en"
+          },
+          {
+            "name": "Stock characters",
+            "kind": "topical",
+            "parents": [
+              "Fictional characters",
+              "Fiction",
+              "Artistic works",
+              "Art",
+              "Culture",
+              "Society",
+              "All topics",
+              "Fundamental"
+            ],
+            "source": "w+disamb",
+            "orig": "en:Stock characters",
+            "langcode": "en",
+            "_dis": "30 6 64"
+          }
+        ],
+        "synonyms": [
+          {
+            "word": "bem"
+          }
+        ],
+        "derived": [
+          {
+            "word": "Bim, BEM, Bum"
+          }
+        ]
+      }
+    ]
+  }
+]

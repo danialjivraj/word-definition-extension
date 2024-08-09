@@ -1,0 +1,21 @@
+{
+  "name": "word-definition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "Danial Jivraj",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "2.8.8"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsdom": "^24.0.0"
+  }
+}

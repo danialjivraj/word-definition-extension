@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  api:
+    image: node:alpine
+    working_dir: /usr/src/app
+    environment:
+      - DEBUG_MODE=${DEBUG_MODE}
+    volumes:
+      - ../../:/usr/src/app
+    command: sh -c "npm install && npm test"

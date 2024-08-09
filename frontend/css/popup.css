@@ -1,0 +1,219 @@
+body {
+  width: 320px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+.hidden-definition {
+  display: none;
+}
+
+h3 {
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+#tabs {
+  display: flex;
+}
+
+.tabButton {
+  flex: 1;
+  margin-right: 5px;
+}
+
+.tabButton img {
+  width: 20px;
+  height: 20px;
+}
+
+.tab {
+  display: none;
+  padding: 10px;
+}
+
+.tab.active {
+  display: block;
+}
+
+.input-group-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(2.25rem + 2px);
+  padding: 0 10px;
+}
+
+.input-group-prepend .input-group-text {
+  padding: 0 10px;
+  /* Adjust the padding for the volume icon container */
+}
+
+.input-group-append .input-group-text {
+  padding: 0 5px;
+  /* Adjust the padding for the star icon container */
+}
+
+.pronounce-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.input-group-prepend:hover .pronounce-icon {
+  filter: brightness(80%);
+}
+
+#favouriteStar {
+  color: gray;
+  cursor: pointer;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(2.25rem + 2px);
+  /* Matches the height of the input */
+  margin-left: -2px;
+  /* Adjust this value to move the star to the left */
+  width: 20px;
+  /* Ensures the star has a consistent width */
+}
+
+#favouriteStar.active {
+  color: gold;
+}
+
+button {
+  padding: 8px 15px;
+  margin-right: 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#definitionResult {
+  margin-top: 10px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.entry {
+  margin-bottom: 20px;
+}
+
+.meanings {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.meaning {
+  margin-left: 20px;
+}
+
+.definition {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.arrow-buttons {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: -5px;
+  width: fit-content;
+  margin-left: auto;
+}
+
+.inner-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+#arrowButtons button {
+  margin-top: 5px;
+}
+
+#settingsTabButton {
+  background: none;
+  border: none;
+  padding: 0;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+
+#settingsIcon {
+  width: 20px;
+  height: 20px;
+  filter: brightness(100%);
+}
+
+#settingsTabButton.active #settingsIcon,
+#settingsTabButton:hover #settingsIcon {
+  filter: brightness(80%);
+}
+
+#generateButton {
+  color: #000;
+  cursor: pointer;
+}
+
+#generateButton:hover {
+  color: #007bff;
+}
+
+#wordInput:hover + .clear-icon,
+.clear-icon:hover {
+  display: inline-block;
+}
+
+.clear-icon {
+  display: none;
+  cursor: pointer;
+  position: absolute;
+  right: 65px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.clear-icon:hover {
+  color: red;
+}
+
+.remove-star {
+  color: red;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.remove-star i {
+  font-size: 18px;
+}
+
+.input-group {
+  position: relative;
+}
+
+#generateButton:hover {
+  color: #007bff !important;
+}

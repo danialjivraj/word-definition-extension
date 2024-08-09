@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Definition Generator",
+  "version": "1.0.0",
+  "description": "Automatically generates dictionary definitions of specific words.",
+  "permissions": ["activeTab", "storage"],
+  "background": {
+    "service_worker": "/backend/background.js"
+  },
+  "action": {
+    "default_popup": "./frontend/popup.html",
+    "default_icon": {
+      "16": "/assets/dictionary.png",
+      "48": "/assets/dictionary.png",
+      "128": "/assets/dictionary.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["/frontend/content.js"]
+    }
+  ]
+}

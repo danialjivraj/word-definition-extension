@@ -1,0 +1,787 @@
+[
+  {
+    "pos": "verb",
+    "head_templates": [
+      {
+        "name": "head",
+        "args": {
+          "1": "en",
+          "2": "verb form"
+        },
+        "expansion": "amazing"
+      }
+    ],
+    "etymology_text": "amaze + -ing, from Old English āmasian.",
+    "etymology_templates": [
+      {
+        "name": "suffix",
+        "args": {
+          "1": "en",
+          "2": "amaze",
+          "3": "ing"
+        },
+        "expansion": "amaze + -ing"
+      },
+      {
+        "name": "inh",
+        "args": {
+          "1": "en",
+          "2": "ang",
+          "3": "āmasian"
+        },
+        "expansion": "Old English āmasian"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/əˈmeɪzɪŋ/",
+        "tags": ["UK", "US"]
+      },
+      {
+        "ipa": "[əˈmeɪ̯zɪŋ]",
+        "tags": ["UK", "US"]
+      },
+      {
+        "rhymes": "-eɪzɪŋ"
+      },
+      {
+        "audio": "en-us-amazing.ogg",
+        "text": "Audio (US)",
+        "tags": ["US"],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/En-us-amazing.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/En-us-amazing.ogg/En-us-amazing.ogg.mp3"
+      },
+      {
+        "enpr": "ə-mā'zĭng"
+      }
+    ],
+    "word": "amazing",
+    "lang": "English",
+    "lang_code": "en",
+    "senses": [
+      {
+        "examples": [
+          {
+            "text": "How many things have men found out to the amazing of one another, to the wonderment of one another, to the begetting of endless commendations of one another in the world",
+            "ref": "1848, John Bunyan, Robert Philip, The Greatness of the Soul: And the Unspeakableness of the Loss Thereof, T. Nelson, page 29",
+            "type": "quotation"
+          },
+          {
+            "text": "Amazing is judged relative what already exists, and Quake has the best underwater effects so far.",
+            "ref": "1996 August 5, Tim Behrendsen, “Tim Behrendsen Lost and Spaced THE FINAL TRY”, in rec.games.computer.quake.misc (Usenet)",
+            "type": "quotation"
+          },
+          {
+            "text": "Reality, especially God's Reality is amazing. For instance that there is something rather than nothing is amazing. [...] Amazing is amazing.",
+            "ref": "1997 November 30, Sir Frederick, “Pro-Mormons are amazing also”, in alt.religion.mormon.fellowship (Usenet)",
+            "type": "quotation"
+          },
+          {
+            "text": "The amazing is happening.",
+            "ref": "1999 July 13, Irma Dobkin, Mary Jo Peterson, Gracious Spaces, McGraw-Hill Professional, page xix",
+            "type": "quotation"
+          },
+          {
+            "text": "All that is impossibly amazing is considered nothing, and the impossibly amazing is considered normal.",
+            "ref": "2000 March 24, Shadow, “Return of the Fulgore Rant!”, in alt.fan.dragons (Usenet)",
+            "type": "quotation"
+          },
+          {
+            "text": "The amazing is that, in EXACTLY the same situation, the demo2 doesn't show this problem.",
+            "ref": "2001 February 3, Brian, “D3 weird FPS”, in alt.games.descent (Usenet)",
+            "type": "quotation"
+          },
+          {
+            "text": "Everything that amazes has its method, until we notice that the amazing is not amazing, has no method.",
+            "ref": "2003 June 23, Thomas Bernhard, Three Novellas, University of Chicago Press, page 31",
+            "type": "quotation"
+          },
+          {
+            "text": "Sheffield is an amazing athlete, how much of the amazing is provided from the Chemlab.",
+            "ref": "2004 October 23, MgClearwater, “George says: Joe and Brian stay..”, in alt.sports.baseball.ny-yankees (Usenet)",
+            "type": "quotation"
+          },
+          {
+            "text": "2006 May 16, Simon Baird, \"monkeyGTD is amazing- a few questions and suggestions\", GTD TiddlyWiki, Google goups\nCool! Of course 99% of the amazing is due to the \"powered by TiddlyWiki\" part of MonkeyGTD.. :)"
+          }
+        ],
+        "links": [["amaze", "amaze#English"]],
+        "glosses": ["present participle and gerund of amaze"],
+        "tags": ["form-of", "gerund", "participle", "present"],
+        "form_of": [
+          {
+            "word": "amaze"
+          }
+        ],
+        "id": "en-amazing-en-verb-yV-7cbN~",
+        "categories": [
+          {
+            "name": "English entries with incorrect language header",
+            "kind": "other",
+            "parents": [
+              "Entries with incorrect language header",
+              "Entry maintenance"
+            ],
+            "source": "w+disamb",
+            "_dis": "20 24 56"
+          },
+          {
+            "name": "English terms suffixed with -ing",
+            "kind": "other",
+            "parents": [],
+            "source": "w+disamb",
+            "_dis": "19 29 52"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "pos": "adj",
+    "head_templates": [
+      {
+        "name": "en-adj",
+        "args": {},
+        "expansion": "amazing (comparative more amazing, superlative most amazing)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "more amazing",
+        "tags": ["comparative"]
+      },
+      {
+        "form": "most amazing",
+        "tags": ["superlative"]
+      }
+    ],
+    "etymology_text": "amaze + -ing, from Old English āmasian.",
+    "etymology_templates": [
+      {
+        "name": "suffix",
+        "args": {
+          "1": "en",
+          "2": "amaze",
+          "3": "ing"
+        },
+        "expansion": "amaze + -ing"
+      },
+      {
+        "name": "inh",
+        "args": {
+          "1": "en",
+          "2": "ang",
+          "3": "āmasian"
+        },
+        "expansion": "Old English āmasian"
+      }
+    ],
+    "sounds": [
+      {
+        "ipa": "/əˈmeɪzɪŋ/",
+        "tags": ["UK", "US"]
+      },
+      {
+        "ipa": "[əˈmeɪ̯zɪŋ]",
+        "tags": ["UK", "US"]
+      },
+      {
+        "rhymes": "-eɪzɪŋ"
+      },
+      {
+        "audio": "en-us-amazing.ogg",
+        "text": "Audio (US)",
+        "tags": ["US"],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/En-us-amazing.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/af/En-us-amazing.ogg/En-us-amazing.ogg.mp3"
+      },
+      {
+        "enpr": "ə-mā'zĭng"
+      }
+    ],
+    "word": "amazing",
+    "lang": "English",
+    "lang_code": "en",
+    "synonyms": [
+      {
+        "word": "awesome",
+        "_dis1": "0 0"
+      }
+    ],
+    "derived": [
+      {
+        "word": "amazingly",
+        "_dis1": "0 0"
+      },
+      {
+        "word": "amazingness",
+        "_dis1": "0 0"
+      },
+      {
+        "word": "awesomazing",
+        "_dis1": "0 0"
+      },
+      {
+        "word": "unamazing",
+        "_dis1": "0 0"
+      }
+    ],
+    "related": [
+      {
+        "word": "amazement",
+        "_dis1": "0 0"
+      }
+    ],
+    "senses": [
+      {
+        "examples": [
+          {
+            "text": "“It’s been amazing, the amount of emails and congratulations,” the Snow White and the Huntsman star, 36, told Ryan Seacrest Friday on his radio show.",
+            "ref": "2012 March 16, “Charlize Theron Says Swaddling’s ‘Pretty Amazing’”, in People Magazine",
+            "type": "quotation"
+          }
+        ],
+        "links": [
+          ["wonder", "wonder"],
+          ["amazement", "amazement"],
+          ["surprising", "surprising"]
+        ],
+        "glosses": ["Causing wonder and amazement; very surprising."],
+        "id": "en-amazing-en-adj-nn7s6qyw",
+        "categories": [],
+        "translations": [
+          {
+            "lang": "Arabic",
+            "code": "ar",
+            "sense": "causing wonder and amazement",
+            "roman": "mudhiš",
+            "word": "مُدْهِش",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Arabic",
+            "code": "ar",
+            "sense": "causing wonder and amazement",
+            "roman": "muḏhil",
+            "word": "مُذْهِل",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Arabic",
+            "code": "ajp",
+            "tags": ["South-Levantine-Arabic"],
+            "sense": "causing wonder and amazement",
+            "roman": "ḵurāfi",
+            "word": "خرافي",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Bashkir",
+            "code": "ba",
+            "sense": "causing wonder and amazement",
+            "roman": "ğəjəp",
+            "word": "ғәжәп",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Bashkir",
+            "code": "ba",
+            "sense": "causing wonder and amazement",
+            "roman": "aptırarlıq",
+            "word": "аптырарлыҡ",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Bashkir",
+            "code": "ba",
+            "sense": "causing wonder and amazement",
+            "roman": "iś kitkes",
+            "word": "иҫ киткес",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Belarusian",
+            "code": "be",
+            "sense": "causing wonder and amazement",
+            "roman": "dzíŭny",
+            "word": "дзі́ўны",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Belarusian",
+            "code": "be",
+            "sense": "causing wonder and amazement",
+            "roman": "dzivósny",
+            "word": "дзіво́сны",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Belarusian",
+            "code": "be",
+            "sense": "causing wonder and amazement",
+            "roman": "čaróŭny",
+            "word": "чаро́ўны",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Bulgarian",
+            "code": "bg",
+            "sense": "causing wonder and amazement",
+            "roman": "udivitelen",
+            "word": "удивителен",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Bulgarian",
+            "code": "bg",
+            "sense": "causing wonder and amazement",
+            "roman": "smajvašt",
+            "word": "смайващ",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Chinese Mandarin",
+            "code": "cmn",
+            "sense": "causing wonder and amazement",
+            "roman": "jīngcǎi",
+            "word": "精彩",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Chinese Mandarin",
+            "code": "cmn",
+            "sense": "causing wonder and amazement",
+            "roman": "liǎobuqǐ",
+            "word": "了不起",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Czech",
+            "code": "cs",
+            "sense": "causing wonder and amazement",
+            "tags": ["masculine"],
+            "word": "úžasný",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Czech",
+            "code": "cs",
+            "sense": "causing wonder and amazement",
+            "word": "ohromující",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Dutch",
+            "code": "nl",
+            "sense": "causing wonder and amazement",
+            "word": "wonderbaarlijk",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Dutch",
+            "code": "nl",
+            "sense": "causing wonder and amazement",
+            "word": "prachtig",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Dutch",
+            "code": "nl",
+            "sense": "causing wonder and amazement",
+            "word": "verbluffend",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Esperanto",
+            "code": "eo",
+            "sense": "causing wonder and amazement",
+            "word": "mirinda",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Finnish",
+            "code": "fi",
+            "sense": "causing wonder and amazement",
+            "word": "hämmästyttävä",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "French",
+            "code": "fr",
+            "sense": "causing wonder and amazement",
+            "word": "étonnant",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Georgian",
+            "code": "ka",
+            "sense": "causing wonder and amazement",
+            "roman": "saocari",
+            "word": "საოცარი",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Georgian",
+            "code": "ka",
+            "sense": "causing wonder and amazement",
+            "roman": "saḳvirveli",
+            "word": "საკვირველი",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "German",
+            "code": "de",
+            "sense": "causing wonder and amazement",
+            "word": "erstaunlich",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "German",
+            "code": "de",
+            "sense": "causing wonder and amazement",
+            "word": "unglaublich",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "German",
+            "code": "de",
+            "sense": "causing wonder and amazement",
+            "word": "verwunderlich",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Gothic",
+            "code": "got",
+            "sense": "causing wonder and amazement",
+            "roman": "sildaleiks",
+            "word": "𐍃𐌹𐌻𐌳𐌰𐌻𐌴𐌹𐌺𐍃",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Greek",
+            "code": "el",
+            "sense": "causing wonder and amazement",
+            "roman": "ekpliktikós",
+            "word": "εκπληκτικός",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Hebrew",
+            "code": "he",
+            "sense": "causing wonder and amazement",
+            "roman": "madhím",
+            "tags": ["masculine"],
+            "word": "מַדְהִים",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Italian",
+            "code": "it",
+            "sense": "causing wonder and amazement",
+            "word": "meraviglioso",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Italian",
+            "code": "it",
+            "sense": "causing wonder and amazement",
+            "word": "sorprendente",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Italian",
+            "code": "it",
+            "sense": "causing wonder and amazement",
+            "word": "sbalorditivo",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Japanese",
+            "code": "ja",
+            "sense": "causing wonder and amazement",
+            "alt": "おどろくべき",
+            "roman": "odoroku-beki",
+            "word": "驚くべき",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Japanese",
+            "code": "ja",
+            "sense": "causing wonder and amazement",
+            "alt": "すごい",
+            "roman": "sugoi",
+            "word": "凄い",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Latin",
+            "code": "la",
+            "sense": "causing wonder and amazement",
+            "word": "mīrus",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Latin",
+            "code": "la",
+            "sense": "causing wonder and amazement",
+            "word": "mirabilis",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Manx",
+            "code": "gv",
+            "sense": "causing wonder and amazement",
+            "word": "ard-yindyssagh",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Mongolian",
+            "code": "mn",
+            "sense": "causing wonder and amazement",
+            "roman": "gajxaltaj",
+            "word": "гайхалтай",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Nepali",
+            "code": "ne",
+            "sense": "causing wonder and amazement",
+            "roman": "acammako",
+            "word": "अचम्मको",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Norwegian",
+            "code": "no",
+            "sense": "causing wonder and amazement",
+            "word": "forbløffende",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Polish",
+            "code": "pl",
+            "sense": "causing wonder and amazement",
+            "word": "zdumiewający",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Portuguese",
+            "code": "pt",
+            "sense": "causing wonder and amazement",
+            "word": "surpreendente",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Romanian",
+            "code": "ro",
+            "sense": "causing wonder and amazement",
+            "word": "uimitor",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Romanian",
+            "code": "ro",
+            "sense": "causing wonder and amazement",
+            "word": "extraordinar",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Russian",
+            "code": "ru",
+            "sense": "causing wonder and amazement",
+            "roman": "izumítelʹnyj",
+            "tags": ["masculine"],
+            "word": "изуми́тельный",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Russian",
+            "code": "ru",
+            "sense": "causing wonder and amazement",
+            "roman": "porazítelʹnyj",
+            "word": "порази́тельный",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Russian",
+            "code": "ru",
+            "sense": "causing wonder and amazement",
+            "roman": "vosxitítelʹnyj",
+            "word": "восхити́тельный",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Spanish",
+            "code": "es",
+            "sense": "causing wonder and amazement",
+            "word": "asombroso",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Spanish",
+            "code": "es",
+            "sense": "causing wonder and amazement",
+            "word": "sorprendente",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Swedish",
+            "code": "sv",
+            "sense": "causing wonder and amazement",
+            "word": "häpnadsväckande",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Turkish",
+            "code": "tr",
+            "sense": "causing wonder and amazement",
+            "word": "şaşırtıcı",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Ukrainian",
+            "code": "uk",
+            "sense": "causing wonder and amazement",
+            "roman": "dývnyj",
+            "word": "ди́вний",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Ukrainian",
+            "code": "uk",
+            "sense": "causing wonder and amazement",
+            "roman": "čudóvyj",
+            "word": "чудо́вий",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Ukrainian",
+            "code": "uk",
+            "sense": "causing wonder and amazement",
+            "roman": "dyvovýžnyj",
+            "word": "дивови́жний",
+            "_dis1": "96 4"
+          },
+          {
+            "lang": "Vietnamese",
+            "code": "vi",
+            "sense": "causing wonder and amazement",
+            "word": "tuyệt vời",
+            "_dis1": "96 4"
+          }
+        ]
+      },
+      {
+        "examples": [
+          {
+            "text": "“I didn’t think I would be a fan of the swaddling, but the swaddling’s pretty amazing,” she says.",
+            "ref": "2012 March 16, “Charlize Theron Says Swaddling’s ‘Pretty Amazing’”, in People Magazine",
+            "type": "quotation"
+          },
+          {
+            "text": "2014, November 6, WAAY-TV (Huntsville, AL), VIDEO: \"Sitting next to him was amazing\" says student of General Via\n\"I think it was pretty amazing that he picked our school out of a lot of schools to come speak to us about what he has done, and what our country has done, to help us gain our freedom,\" Mucci said, “sitting next to him was amazing.”"
+          },
+          {
+            "text": "2014, November 8, Nick McCarvel, \"Wozniacki's marathon debut was amazing, Djokovic says\", USA TODAY Sports\n\"Running a marathon is definitely an amazing experience.\""
+          },
+          {
+            "text": "2015 June 10, Lindsey Bever, Morning Mix: Another reason seeing-eye dogs are amazing:",
+            "type": "quotation"
+          }
+        ],
+        "links": [
+          ["uniquely", "uniquely"],
+          ["wonderful", "wonderful"],
+          ["good", "good"]
+        ],
+        "raw_glosses": [
+          "(informal) Possessing uniquely wonderful qualities; very good."
+        ],
+        "glosses": ["Possessing uniquely wonderful qualities; very good."],
+        "tags": ["informal"],
+        "id": "en-amazing-en-adj-ktHsRZ13",
+        "categories": [],
+        "translations": [
+          {
+            "lang": "Finnish",
+            "code": "fi",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "mieletön",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "French",
+            "code": "fr",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "formidable",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "French",
+            "code": "fr",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "super",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "French",
+            "code": "fr",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "extraordinaire",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "French",
+            "code": "fr",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "sensationnel",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "Georgian",
+            "code": "ka",
+            "sense": "possessing uniquely wonderful qualities",
+            "roman": "saocari",
+            "word": "საოცარი",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "German",
+            "code": "de",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "toll",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "German",
+            "code": "de",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "super",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "German",
+            "code": "de",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "unglaublich",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "Italian",
+            "code": "it",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "formidabile",
+            "_dis1": "4 96"
+          },
+          {
+            "lang": "Romanian",
+            "code": "ro",
+            "sense": "possessing uniquely wonderful qualities",
+            "word": "extraordinar",
+            "_dis1": "4 96"
+          }
+        ]
+      }
+    ]
+  }
+]

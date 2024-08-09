@@ -1,0 +1,119 @@
+[
+  {
+    "pos": "name",
+    "head_templates": [
+      {
+        "name": "en-proper noun",
+        "args": {},
+        "expansion": "Bem"
+      }
+    ],
+    "word": "Bem",
+    "lang": "English",
+    "lang_code": "en",
+    "senses": [
+      {
+        "examples": [
+          {
+            "text": "gasconade county / Bem vicinity / PEENIE ARCHEOLOGICAL PETROGLYPH SITE / 3 miles east of Bem / Pre-Columbian",
+            "ref": "1972, “Missouri”, in The National Register of Historic Places 1972, Washington, D.C.: United States Department of the Interior, page 256",
+            "type": "quotation"
+          }
+        ],
+        "links": [
+          ["unincorporated", "unincorporated"],
+          ["community", "community"],
+          ["Gasconade County", "Gasconade County#English"],
+          ["Missouri", "Missouri#English"],
+          ["United States", "United States#English"]
+        ],
+        "glosses": [
+          "An unincorporated community in Gasconade County, Missouri, United States."
+        ],
+        "wikipedia": ["Bem, Missouri"],
+        "id": "en-Bem-en-name-tPjI4LBx",
+        "categories": [
+          {
+            "name": "English entries with incorrect language header",
+            "kind": "other",
+            "parents": [
+              "Entries with incorrect language header",
+              "Entry maintenance"
+            ],
+            "source": "w"
+          },
+          {
+            "name": "Places in Missouri, USA",
+            "kind": "place",
+            "parents": [
+              "Places",
+              "Names",
+              "All topics",
+              "Proper nouns",
+              "Terms by semantic function",
+              "Fundamental",
+              "Nouns",
+              "Lemmas"
+            ],
+            "source": "w",
+            "orig": "en:Places in Missouri, USA",
+            "langcode": "en"
+          },
+          {
+            "name": "Places in the United States",
+            "kind": "place",
+            "parents": [
+              "Places",
+              "Names",
+              "All topics",
+              "Proper nouns",
+              "Terms by semantic function",
+              "Fundamental",
+              "Nouns",
+              "Lemmas"
+            ],
+            "source": "w",
+            "orig": "en:Places in the United States",
+            "langcode": "en"
+          },
+          {
+            "name": "Unincorporated communities in Missouri, USA",
+            "kind": "place",
+            "parents": [
+              "Unincorporated communities",
+              "Places",
+              "Names",
+              "All topics",
+              "Proper nouns",
+              "Terms by semantic function",
+              "Fundamental",
+              "Nouns",
+              "Lemmas"
+            ],
+            "source": "w",
+            "orig": "en:Unincorporated communities in Missouri, USA",
+            "langcode": "en"
+          },
+          {
+            "name": "Unincorporated communities in the United States",
+            "kind": "place",
+            "parents": [
+              "Unincorporated communities",
+              "Places",
+              "Names",
+              "All topics",
+              "Proper nouns",
+              "Terms by semantic function",
+              "Fundamental",
+              "Nouns",
+              "Lemmas"
+            ],
+            "source": "w",
+            "orig": "en:Unincorporated communities in the United States",
+            "langcode": "en"
+          }
+        ]
+      }
+    ]
+  }
+]

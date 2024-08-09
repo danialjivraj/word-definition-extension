@@ -1,0 +1,171 @@
+[
+  {
+    "pos": "adj",
+    "head_templates": [
+      {
+        "name": "en-adj",
+        "args": {
+          "1": "better",
+          "2": "er",
+          "sup": "best",
+          "comp2_qual": "nonstandard, humorous",
+          "sup2_qual": "nonstandard, humorous"
+        },
+        "expansion": "good (comparative better or (nonstandard, humorous) gooder, superlative best or (nonstandard, humorous) goodest)"
+      }
+    ],
+    "word": "good",
+    "lang": "English",
+    "lang_code": "en",
+    "wikipedia": ["good"]
+  },
+  {
+    "pos": "adv",
+    "head_templates": [
+      {
+        "name": "en-adv",
+        "args": {
+          "1": "better",
+          "sup": "best"
+        },
+        "expansion": "good (comparative better, superlative best)"
+      }
+    ],
+    "forms": [
+      {
+        "form": "better",
+        "tags": ["comparative"]
+      },
+      {
+        "form": "best",
+        "tags": ["superlative"]
+      }
+    ],
+    "etymology_number": 2,
+    "etymology_text": "From Middle English goode (“good, well”, adverb), from the adjective. Compare Dutch goed (“good, well”, adverb), German gut (“good, well”, adverb), Danish godt (“good, well”, adverb), Swedish godt (“good, well”, adverb), all from the adjective.",
+    "word": "good",
+    "lang": "English",
+    "lang_code": "en",
+    "wikipedia": ["good"],
+    "sounds": [
+      {
+        "ipa": "/ɡʊd/",
+        "tags": ["Received-Pronunciation"]
+      },
+      {
+        "ipa": "/ɡʊd/",
+        "tags": ["General-American", "New-Zealand"]
+      },
+      {
+        "ipa": "[ɡʊ̈d]",
+        "tags": ["General-American", "New-Zealand"]
+      },
+      {
+        "ipa": "[ɡɪ̈d]",
+        "tags": ["General-American", "New-Zealand"]
+      },
+      {
+        "ipa": "/ɡʊd/",
+        "tags": ["General-Australian"]
+      },
+      {
+        "ipa": "[ɡʊd]",
+        "tags": ["General-Australian"]
+      },
+      {
+        "ipa": "[ɡud]",
+        "tags": ["General-Australian"]
+      },
+      {
+        "ipa": "/ɡʊ(d)/",
+        "tags": ["African-American-Vernacular-English"]
+      },
+      {
+        "rhymes": "-ʊd"
+      },
+      {
+        "audio": "En-uk-good.ogg",
+        "text": "Audio (RP)",
+        "tags": ["Received-Pronunciation"],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/En-uk-good.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/69/En-uk-good.ogg/En-uk-good.ogg.mp3"
+      },
+      {
+        "audio": "En-us-good.ogg",
+        "text": "Audio (GA)",
+        "tags": ["General-American"],
+        "ogg_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/En-us-good.ogg",
+        "mp3_url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/28/En-us-good.ogg/En-us-good.ogg.mp3"
+      },
+      {
+        "enpr": "go͝od",
+        "tags": ["African-American-Vernacular-English"]
+      },
+      {
+        "enpr": "go͝o(d)",
+        "tags": ["African-American-Vernacular-English"]
+      }
+    ],
+    "derived": [
+      {
+        "word": "a good many",
+        "_dis1": "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+      }
+    ],
+    "senses": [
+      {
+        "examples": [
+          {
+            "text": "The boy done good. (did well)",
+            "type": "example"
+          },
+          {
+            "text": "If Silvertip refuses to give you the horse, grab him before he can draw a weapon, and beat him good. You're big enough to do it.",
+            "ref": "1906, Zane Grey, The Spirit of the Border: A Romance of the Early Settlers in the Ohio Valley",
+            "type": "quotation"
+          },
+          {
+            "text": "I kept my eyes peeled for signs of pursuit. There was none, unless I was being fooled very good.",
+            "ref": "1970, Troy Conway, The Cunning Linguist, London: Flamingo Books, page 66",
+            "type": "quotation"
+          },
+          {
+            "text": "She said, \"I don't want to bother you / Consider it's understood / I know I'm not no beauty queen / But I sure can listen good.\"",
+            "ref": "1972, Harry Chapin (lyrics and music), “A Better Place to Be”, in Sniper and Other Love Songs",
+            "type": "quotation"
+          },
+          {
+            "text": "Marsellus fucked him up good. Word 'round the campfire is it was on account of Marsellus Wallace's wife.",
+            "ref": "1994, Quentin Tarantino, Roger Avary, Pulp Fiction, spoken by Jules (Samuel L. Jackson)",
+            "type": "quotation"
+          },
+          {
+            "text": "The one thing that we can't do...is throw out the baby with the bathwater.... We know our process works pretty darn good and, uh, it’s really sparked this amazing phenomenon of this...high-quality website.",
+            "ref": "2007 April 19, Jimmy Wales, “Jimmy Wales on the User-Generated Generation”, Fresh Air, WHYY, Pennsylvania https://web.archive.org/web/20070423020137/http://www.npr.org/templates/story/story.php?storyId=9683874"
+          },
+          {
+            "text": "\"They're travellin' good now. We'll leave them be.\"",
+            "ref": "2010, Monte Dwyer, Red in the Centre: Through a Crooked Lens, Monyer Pty Ltd, page 14",
+            "type": "quotation"
+          },
+          {
+            "text": "Admiral Anderson: You did good, child. You did good. I'm proud of you.",
+            "ref": "2012, BioWare, Mass Effect 3 (Science Fiction), Redwood City: Electronic Arts, →OCLC, PC, scene: Citadel (Priority: Earth)",
+            "type": "quotation"
+          }
+        ],
+        "links": [["Well", "well"]],
+        "raw_glosses": ["(nonstandard) Well; satisfactorily or thoroughly."],
+        "glosses": ["Well; satisfactorily or thoroughly."],
+        "tags": ["nonstandard"],
+        "id": "en-good-en-adv-qs5Y~kfT",
+        "categories": [],
+        "derived": [
+          {
+            "word": "but good"
+          }
+        ]
+      }
+    ]
+  }
+]
