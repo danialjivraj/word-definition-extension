@@ -69,7 +69,7 @@ You will need [Node.js](https://nodejs.org/en/download) installed to be able to 
 
 ## Add Extension to Google Chrome
 
-Go to `chrome://extensions/`, click on `Load unpacked` (Developer mode must be on) and select the `word-definition-extension` folder. <br>
+In the browser, go to `chrome://extensions/`, click on `Load unpacked` (Developer mode must be on) and select the `word-definition-extension` folder. <br>
 The extension should be loaded successfully. You might need to click the puzzle icon to see it!
 
 ## Tests
