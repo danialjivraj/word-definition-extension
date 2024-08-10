@@ -55,7 +55,7 @@ npm install
 ## Running the Server
 
 Download the [JSONL data for all word senses in the English dictionary](https://kaikki.org/dictionary/English/index.html) (≈2GB) and rename it to `english-dictionary.json` <br>
-Once downloaded, place it in the following directory: `backend/dictionary/`.
+Once downloaded, place it in the following directory: `backend/dictionary/`
 
 To run the server, execute the following command:
 
