@@ -96,4 +96,4 @@ You can run the tests within Docker by executing the following script:
 
 **Note:** Make sure you're in the `backend\scripts` directory to run the script. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-The script is only compatible with Windows because it is a .bat file.
+The script is only compatible with Windows because it is a `.bat` file.
